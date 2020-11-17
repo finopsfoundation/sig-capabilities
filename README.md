@@ -6,7 +6,7 @@ Reviewed and Contributed to by: tbc
 
 # Introduction
 
-SIG-Capabilities exists to explore and define the actions FinOps practioners can take to both create change and measurement the effectiveness of that change across their technology environments. 
+SIG-Capabilities exists to explore and define the actions FinOps practitoners can take to both create change and measurement the effectiveness of that change across their technology environments. 
 
 # Mission Statement
 
