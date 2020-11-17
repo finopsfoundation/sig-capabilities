@@ -19,8 +19,14 @@ SIG-Capabilities exists to explore and define the actions FinOps practitoners ca
 
 ## In Scope
 
-Definition of new capabilities as they pertain to driving better utilization of technology
-Definition of measurements associated with deriving the rate of value produced by making changes in technology. 
+Definition of new capabilities as they pertain to driving better utilization of technology. Examples of this include:
+Inform: Tag Strategy, Spend to Business mapping, Budgets & Forecasts, Custom Rates & Amortizations, Scorecards with KPIs, Benchmarks with Peers, Trending and Variance Analysis
+Optimize: Remove Underutilized Resources, Visualize Spend/Usage, Identify Anomalies, Rightsizing, Workload Management, Automation
+Operate: Utilize Marketplace, License Optimization, Balance Usage by Rate, Select Discounting Vehicles, Pre-purchase Capacity, Tiered Usage Discounting, Communucations Strategy, Decision Frameworking, Ongoing Review  
+
+Definition of measurements associated with deriving the rate of value produced by making changes in technology. Examples of this include: 
+KPIs by Usage: Cost per user, cost per API call
+KPIs by Savings: Effective savings rate, effective usage rate
 
 ### Current FinOps Foundation Engineering Working Groups
 
